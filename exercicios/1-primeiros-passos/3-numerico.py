@@ -11,6 +11,6 @@ print(type(altura))
 nome = 'guilherme'
 nome*5
 
-
 # Realize uma operação entre dados do tipo inteiro e float
-imc = print(peso/altura)
+imc = peso/altura**2
+print(imc)
