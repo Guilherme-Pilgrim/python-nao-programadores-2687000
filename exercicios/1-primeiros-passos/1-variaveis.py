@@ -9,9 +9,9 @@ malandro='noia'
 
 
 # Declare variáveis de cada tipo numérico
-numero_inteiro=568
-
+numero_inteiro = 568.00
+numero = 25.68
 
 # Declare uma variável do tipo booleano
-verdadeira=True
+verdadeiro=True
 falso=False
